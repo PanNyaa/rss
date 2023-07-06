@@ -2,8 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pannyaa.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-06T17:25:19.845Z</updated>
+    <updated>2023-07-06T17:28:01.443Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pannyaa.github.io/rss/index.html"/>
     <link rel="self" href="https://pannyaa.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[10年使ってたTwitterアカウントが凍結した]]></title>
+        <id>https://note.com/pan_nyaa/n/n53f48346e31b</id>
+        <link href="https://note.com/pan_nyaa/n/n53f48346e31b"/>
+        <updated>2023-04-24T17:01:57.000Z</updated>
+        <summary type="html"><![CDATA[許さんぞ陸八魔アル pic.twitter.com/fzUn6S2xkq
+— ぱんにゃあちゃん(p°ω°)p本垢と鍵垢凍結 (@pan___nyaa) April 20, 2023
+
+続きをみる]]></summary>
+        <author>
+            <name>ぱんにゃあちゃん(p°ω°)p</name>
+        </author>
+    </entry>
 </feed>
