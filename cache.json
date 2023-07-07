@@ -6,6 +6,16 @@
       "siteUrl": "https://note.com/pan_nyaa",
       "articles": [
         {
+          "id": "https://note.com/pan_nyaa/n/n7921c168d415",
+          "author": null,
+          "description": "４日前くらいに Github Pages で個人ページを作りました。\n about：ぱんにゃあちゃん a.k.a ぱにゃもひ☆PROJECTpannyaa.github.io \n続きをみる",
+          "link": "https://note.com/pan_nyaa/n/n7921c168d415",
+          "publishedOn": "2023-07-07T11:44:38.000Z",
+          "wordCount": 2371,
+          "title": "Github Pagesで作成した静的サイトに、CORS制限があるnote.comのRSSフィードを載せる方法(Github Actions)",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/110200560/rectangle_large_type_2_3cbc2f4dcb792643ac32ae0e888a75b1.jpeg?width=800"
+        },
+        {
           "id": "https://note.com/pan_nyaa/n/n82ea56b9b308",
           "author": null,
           "description": "いつものようにPCでゲームをやってて、いつものようにPrintScreenキーでスクショしようとすると、何故かデスクトップ画面に戻される。\n今までは普通にスクショできてたのに……。\nと思って設定をよく見たら、\n『PrintScreenキーを使用して、Snipping Tool を開く』\n続きをみる",
