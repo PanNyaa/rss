@@ -3,7 +3,7 @@
 # https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
 #########################
 
-#
+
 
 cacheUrl: https://pannyaa.github.io/rss/cache.json
 sources:
