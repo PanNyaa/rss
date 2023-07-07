@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pannyaa.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-06T17:28:01.443Z</updated>
+    <updated>2023-07-07T00:47:15.516Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pannyaa.github.io/rss/index.html"/>
     <link rel="self" href="https://pannyaa.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Windows11のPRTSTキーがゴミになってた]]></title>
+        <id>https://note.com/pan_nyaa/n/n82ea56b9b308</id>
+        <link href="https://note.com/pan_nyaa/n/n82ea56b9b308"/>
+        <updated>2023-07-06T18:24:13.000Z</updated>
+        <summary type="html"><![CDATA[いつものようにPCでゲームをやってて、いつものようにPrintScreenキーでスクショしようとすると、何故かデスクトップ画面に戻される。
+今までは普通にスクショできてたのに……。
+と思って設定をよく見たら、
+『PrintScreenキーを使用して、Snipping Tool を開く』
+続きをみる]]></summary>
+        <author>
+            <name>ぱんにゃあちゃん(p°ω°)p</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10年使ってたTwitterアカウントが凍結した]]></title>
         <id>https://note.com/pan_nyaa/n/n53f48346e31b</id>
