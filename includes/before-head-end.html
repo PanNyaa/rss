@@ -29,8 +29,7 @@
 </style>
 
 <script>
-
-  /**
+  
 window.addEventListener('DOMContentLoaded', function() {
   // ページにあるa要素から「href」属性が外部リンクの要素を取得
   let a_elements = document.querySelectorAll("a[href^='http']:not([href*='" + location.hostname + "'])");
@@ -41,7 +40,5 @@ window.addEventListener('DOMContentLoaded', function() {
     a_elements[i].setAttribute("target","_blank");
   }
 });
-
-  */
   
 </script>
