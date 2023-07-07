@@ -40,6 +40,21 @@
   }
 </style>
 
+<script>
+  
+window.addEventListener('DOMContentLoaded', function() {
+  // ページにあるa要素から「href」属性が外部リンクの要素を取得
+  let a_elements = document.querySelectorAll("a[href^='http']:not([href*='" + location.hostname + "'])");
+  for (let i=0; i<a_elements.length; i++) {
+    // rel属性を設定
+    a_elements[i].setAttribute("rel","noopener noreferrer");
+    // target属性を設定
+    a_elements[i].setAttribute("target","_blank");
+  }
+});
+  
+</script>
+
   </head>
 
   <body>
@@ -149,8 +164,8 @@
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/PanNyaa/rss/actions/runs/5481538045">
-        <time id="build-timestamp" datetime="2023-07-07T00:47:15.496Z">2023-07-07T00:47:15.496Z</time>
+      <a class="footer-link" href="https://github.com/PanNyaa/rss/actions/runs/5483237600">
+        <time id="build-timestamp" datetime="2023-07-07T05:53:28.939Z">2023-07-07T05:53:28.939Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
