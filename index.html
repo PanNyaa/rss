@@ -17,7 +17,7 @@
      * Ethan Schoonover (modified by aramisgithub)
      */
     --base00: #ffffff;
-    --base01: #fff6e2;
+    --base01: linear-gradient(to bottom,#fff,#ffeece);
     --base02: #93a1a1;
     --base03: #839496;
     --base04: #657b83;
@@ -38,6 +38,15 @@
     */
     --source-name-color: var(--base0C);
   }
+
+  .card {
+  border-radius: var(--card-radius);
+  box-shadow: var(--card-shadow);
+  background: none;
+  border: 2px dotted var(--card-border-color) !important;
+  overflow: hidden;
+  }
+  
 </style>
 
 <script>
@@ -214,8 +223,8 @@ window.addEventListener('DOMContentLoaded', function() {
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/PanNyaa/rss/actions/runs/5502833714">
-        <time id="build-timestamp" datetime="2023-07-10T00:47:38.913Z">2023-07-10T00:47:38.913Z</time>
+      <a class="footer-link" href="https://github.com/PanNyaa/rss/actions/runs/5511093531">
+        <time id="build-timestamp" datetime="2023-07-10T17:28:27.546Z">2023-07-10T17:28:27.546Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
