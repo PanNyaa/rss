@@ -5,7 +5,7 @@
      * Ethan Schoonover (modified by aramisgithub)
      */
     --base00: #ffffff;
-    --base01: #fff6e2;
+    --base01: linear-gradient(to bottom,#fff,#ffeece);
     --base02: #93a1a1;
     --base03: #839496;
     --base04: #657b83;
@@ -26,6 +26,15 @@
     */
     --source-name-color: var(--base0C);
   }
+
+  .card {
+  border-radius: var(--card-radius);
+  box-shadow: var(--card-shadow);
+  background: none;
+  border: 2px dotted var(--card-border-color) !important;
+  overflow: hidden;
+  }
+  
 </style>
 
 <script>
