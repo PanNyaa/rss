@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pannyaa.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-11T00:40:52.357Z</updated>
+    <updated>2023-07-11T19:36:09.209Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pannyaa.github.io/rss/index.html"/>
     <link rel="self" href="https://pannyaa.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[チナトロ逃しました。
+
+ボーダー芸...]]></title>
+        <id>https://note.com/pan_nyaa/n/n80b576b9ccab</id>
+        <link href="https://note.com/pan_nyaa/n/n80b576b9ccab"/>
+        <updated>2023-07-11T19:01:58.000Z</updated>
+        <summary type="html"><![CDATA[チナトロ逃しました。
+
+ボーダー芸人です😵‍💫
+続きをみる]]></summary>
+        <author>
+            <name>ぱんにゃあちゃん(p°ω°)p</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Github Pagesで作成した静的サイトに、CORS制限があるnote.comのRSSフィードを載せる方法(Github Actions)]]></title>
         <id>https://note.com/pan_nyaa/n/n7921c168d415</id>
