@@ -33,7 +33,34 @@
   background: none;
   border: 2px dotted var(--card-border-color) !important;
   overflow: hidden;
+    position: relative;     /* 基準値とする */
   }
+
+  .card::before{
+    content: "";
+  border-radius: var(--card-radius);
+  box-shadow: var(--card-shadow);
+  background: none;
+  border: 2px dotted var(--card-border-color) !important;
+  overflow: hidden;
+    position: absolute;     /* 相対位置に指定 */
+  top: 4px;               /* 大きさに合わせて微調整 */
+  left: 4px;              /* 大きさに合わせて微調整 */
+  }
+
+  .card::after{
+    content: "";
+  border-radius: var(--card-radius);
+  box-shadow: var(--card-shadow);
+  background: none;
+  border: 2px dotted var(--card-border-color) !important;
+  overflow: hidden;
+    position: absolute;     /* 相対位置に指定 */
+  top: 12px;               /* 大きさに合わせて微調整 */
+  left: 12px;              /* 大きさに合わせて微調整 */
+  }
+
+  
 
   .daily-heading-toggle {
   display: none;
