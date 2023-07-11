@@ -45,7 +45,34 @@
   background: none;
   border: 2px dotted var(--card-border-color) !important;
   overflow: hidden;
+    position: relative;     /* 基準値とする */
   }
+
+  .card::before{
+    content: "";
+  border-radius: var(--card-radius);
+  box-shadow: var(--card-shadow);
+  background: none;
+  border: 2px dotted var(--card-border-color) !important;
+  overflow: hidden;
+    position: absolute;     /* 相対位置に指定 */
+  top: 4px;               /* 大きさに合わせて微調整 */
+  left: 4px;              /* 大きさに合わせて微調整 */
+  }
+
+  .card::after{
+    content: "";
+  border-radius: var(--card-radius);
+  box-shadow: var(--card-shadow);
+  background: none;
+  border: 2px dotted var(--card-border-color) !important;
+  overflow: hidden;
+    position: absolute;     /* 相対位置に指定 */
+  top: 12px;               /* 大きさに合わせて微調整 */
+  left: 12px;              /* 大きさに合わせて微調整 */
+  }
+
+  
 
   .daily-heading-toggle {
   display: none;
@@ -96,8 +123,8 @@ window.addEventListener('DOMContentLoaded', function() {
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-07-11 datetime="2023-07-11T19:01:58.000Z">2023-07-11</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-07-11 datetime="2023-07-11T19:01:58.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-07-11 datetime="2023-07-11T22:38:30.000Z">2023-07-11</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-07-11 datetime="2023-07-11T22:38:30.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
@@ -112,6 +139,27 @@ window.addEventListener('DOMContentLoaded', function() {
                   <a class="source-heading__link" href="https://note.com/pan_nyaa">Open</a>
                 </h3>
                 <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://note.com/pan_nyaa/n/n4e62e0de28b1"
+                        open
+                      >
+                        <summary class="article-expander__title">また新しいキーボード買っちった⌨</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://note.com/pan_nyaa/n/n4e62e0de28b1">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://assets.st-note.com/production/uploads/images/110573435/rectangle_large_type_2_3efc9daeaf5e15590fcde3321e3da4f6.jpeg?width&#x3D;800" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>折り畳み式の薄型キーボードが欲しい・・・。
+続きをみる</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;8
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
                     <article>
                       <details
                         class="article-expander"
@@ -297,8 +345,8 @@ window.addEventListener('DOMContentLoaded', function() {
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/PanNyaa/rss/actions/runs/5524153403">
-        <time id="build-timestamp" datetime="2023-07-11T19:36:09.188Z">2023-07-11T19:36:09.188Z</time>
+      <a class="footer-link" href="https://github.com/PanNyaa/rss/actions/runs/5525907759">
+        <time id="build-timestamp" datetime="2023-07-11T23:35:16.718Z">2023-07-11T23:35:16.718Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

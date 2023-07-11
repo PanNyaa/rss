@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pannyaa.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-11T19:36:09.209Z</updated>
+    <updated>2023-07-11T23:35:16.743Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pannyaa.github.io/rss/index.html"/>
     <link rel="self" href="https://pannyaa.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[また新しいキーボード買っちった⌨]]></title>
+        <id>https://note.com/pan_nyaa/n/n4e62e0de28b1</id>
+        <link href="https://note.com/pan_nyaa/n/n4e62e0de28b1"/>
+        <updated>2023-07-11T22:38:30.000Z</updated>
+        <summary type="html"><![CDATA[折り畳み式の薄型キーボードが欲しい・・・。
+続きをみる]]></summary>
+        <author>
+            <name>ぱんにゃあちゃん(p°ω°)p</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[チナトロ逃しました。
 
