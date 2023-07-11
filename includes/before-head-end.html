@@ -36,29 +36,35 @@
     position: relative;     /* 基準値とする */
   }
 
-  .card::before{
-    content: "";
+  .card::before {
+  content: "";
   border-radius: var(--card-radius);
   box-shadow: var(--card-shadow);
   background: none;
-  border: 2px dotted var(--card-border-color) !important;
+  border: 2px solid var(--card-border-color) !important;
   overflow: hidden;
-    position: absolute;     /* 相対位置に指定 */
-  top: 4px;               /* 大きさに合わせて微調整 */
-  left: 4px;              /* 大きさに合わせて微調整 */
-  }
+  position: absolute;
+  top: 93%;
+  left: 0.5%;
+  width: 3px;
+  height: 3px;
+}
 
-  .card::after{
+  .card::after {
+
     content: "";
-  border-radius: var(--card-radius);
-  box-shadow: var(--card-shadow);
-  background: none;
-  border: 2px dotted var(--card-border-color) !important;
-  overflow: hidden;
-    position: absolute;     /* 相対位置に指定 */
-  top: 12px;               /* 大きさに合わせて微調整 */
-  left: 12px;              /* 大きさに合わせて微調整 */
-  }
+    border-radius: var(--card-radius);
+    box-shadow: var(--card-shadow);
+    background: none;
+    border: 2px solid var(--card-border-color) !important;
+    overflow: hidden;
+    position: absolute;
+    top: 3%;
+    left: 98.6%;
+    width: 3px;
+    height: 3px;
+
+}
 
   
 
