@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pannyaa.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-22T00:40:33.569Z</updated>
+    <updated>2023-07-23T00:43:00.438Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pannyaa.github.io/rss/index.html"/>
     <link rel="self" href="https://pannyaa.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[噂の『例のSSD』を購入、ONEXPLAYER miniに換装]]></title>
+        <id>https://note.com/pan_nyaa/n/n9f2179cdf2d7</id>
+        <link href="https://note.com/pan_nyaa/n/n9f2179cdf2d7"/>
+        <updated>2023-07-22T23:50:42.000Z</updated>
+        <summary type="html"><![CDATA[続きをみる]]></summary>
+        <author>
+            <name>ぱんにゃあちゃん(p°ω°)p</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ダイソーに売ってた500円のワイヤレスマウスの実力は・・・]]></title>
         <id>https://note.com/pan_nyaa/n/nf7f8f54e14be</id>
