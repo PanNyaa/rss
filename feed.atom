@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pannyaa.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-21T00:31:24.202Z</updated>
+    <updated>2023-08-22T00:31:18.760Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pannyaa.github.io/rss/index.html"/>
     <link rel="self" href="https://pannyaa.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[麻雀やったことない人が雀魂を始めてから3ヶ月くらい経過した]]></title>
+        <id>https://note.com/pan_nyaa/n/nf8235222f47e</id>
+        <link href="https://note.com/pan_nyaa/n/nf8235222f47e"/>
+        <updated>2023-08-21T14:35:35.000Z</updated>
+        <summary type="html"><![CDATA[今年の5月末くらいからネット麻雀の『雀魂』をプレイしています。
+始めたての頃は何も分からないのでCPUと練習戦を繰り返していましたが、最近四麻も三麻も雀傑に昇格することができました。
+主要な役はやってる内に覚えていき、スジ読みの概念を理解してからは放銃回数も目に見えて減少。自分でもそこそこ納得が行くプレイが出来てます。
+なんと、少し前にリアル麻雀にも参加してきました！
+ルールが雀魂と少し違っていて、喰いタン無し、後付けなし(役牌/自風/場風牌は一番先に鳴かないと無役になる)、赤ドラ無し。雀魂などネット麻雀で主流の現代麻雀よりも速度が遅くなる代わりに役作りが楽しめるルールのようですね。
+場所によってローカルルールが違うようですが、赤ドラは欲しかったです……()
+続きをみる]]></summary>
+        <author>
+            <name>ぱんにゃあちゃん(p°ω°)p</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[噂の『例のSSD』を購入、ONEXPLAYER miniに換装]]></title>
         <id>https://note.com/pan_nyaa/n/n9f2179cdf2d7</id>
