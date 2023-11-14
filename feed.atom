@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pannyaa.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-13T00:34:44.788Z</updated>
+    <updated>2023-11-14T00:33:39.706Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pannyaa.github.io/rss/index.html"/>
     <link rel="self" href="https://pannyaa.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[人間の生活リズムって24時間周期じゃないらしい]]></title>
+        <id>https://note.com/pan_nyaa/n/n03f3322fff28</id>
+        <link href="https://note.com/pan_nyaa/n/n03f3322fff28"/>
+        <updated>2023-11-13T01:25:33.000Z</updated>
+        <summary type="html"><![CDATA[昼夜逆転ぱんにゃあちゃんです。
+人間の体内時計の周期は24時間10分らしい……。
+続きをみる]]></summary>
+        <author>
+            <name>ぱんにゃあちゃん(p°ω°)p</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[麻雀やったことない人が雀魂を始めてから3ヶ月くらい経過した]]></title>
         <id>https://note.com/pan_nyaa/n/nf8235222f47e</id>
