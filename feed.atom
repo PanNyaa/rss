@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pannyaa.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-16T00:34:35.910Z</updated>
+    <updated>2023-12-17T00:38:14.771Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pannyaa.github.io/rss/index.html"/>
     <link rel="self" href="https://pannyaa.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FiiO UTWS5 の右側だけ充電されないときのメモ]]></title>
+        <id>https://note.com/pan_nyaa/n/n6fe36d9eab2d</id>
+        <link href="https://note.com/pan_nyaa/n/n6fe36d9eab2d"/>
+        <updated>2023-12-16T04:27:12.000Z</updated>
+        <summary type="html"><![CDATA[好きなイヤホンをTWS化できる FiiO UTWS5 を所持しているのですが、右側だけ充電されなくなることがしょっちゅうあります。
+以下の手順で復活したのでメモしておきます。(偶然復活しただけ説)
+①全ての機器とのペアリングを解除する(おそらくここが一番重要)
+②機器側に登録してあるutws5を削除する、FiiO Control上のUTWS5も同様に削除。
+③LR両方をケースに入れる(この時右側だけ充電できてない)
+④ケースのボタンを15秒以上押してutws5 LRの初期化をする
+続きをみる]]></summary>
+        <author>
+            <name>ぱんにゃあちゃん(p°ω°)p</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[人間の生活リズムって24時間周期じゃないらしい]]></title>
         <id>https://note.com/pan_nyaa/n/n03f3322fff28</id>

@@ -6,6 +6,16 @@
       "siteUrl": "https://note.com/pan_nyaa",
       "articles": [
         {
+          "id": "https://note.com/pan_nyaa/n/n6fe36d9eab2d",
+          "author": null,
+          "description": "好きなイヤホンをTWS化できる FiiO UTWS5 を所持しているのですが、右側だけ充電されなくなることがしょっちゅうあります。\n以下の手順で復活したのでメモしておきます。(偶然復活しただけ説)\n①全ての機器とのペアリングを解除する(おそらくここが一番重要)\n②機器側に登録してあるutws5を削除する、FiiO Control上のUTWS5も同様に削除。\n③LR両方をケースに入れる(この時右側だけ充電できてない)\n④ケースのボタンを15秒以上押してutws5 LRの初期化をする\n続きをみる",
+          "link": "https://note.com/pan_nyaa/n/n6fe36d9eab2d",
+          "publishedOn": "2023-12-16T04:27:12.000Z",
+          "wordCount": 2620,
+          "title": "FiiO UTWS5 の右側だけ充電されないときのメモ",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/124700298/rectangle_large_type_2_9f4cc8f8db444fd943b34afbf8058365.jpeg?width=800"
+        },
+        {
           "id": "https://note.com/pan_nyaa/n/n03f3322fff28",
           "author": null,
           "description": "昼夜逆転ぱんにゃあちゃんです。\n人間の体内時計の周期は24時間10分らしい……。\n続きをみる",
