@@ -6,6 +6,16 @@
       "siteUrl": "https://note.com/pan_nyaa",
       "articles": [
         {
+          "id": "https://note.com/pan_nyaa/n/n56ec4ecddb37",
+          "author": null,
+          "description": "2023年4月(だったかな)にTwitterアカウントが凍結されてからもう1年経ちそうになってます、時間が過ぎるのは早いですね。イーロン・マスクのせいです。\nあの頃から何か変わったことといえば、凍結を機にSNSアカウントとかをまとめたプロフィールページ( https://pannyaa.github.io/about/ )をGithub Pagesで作ったこととか、43インチの4Kディスプレイ(43Z670K)を買ったこととか、GPD Win4 2023を買ったこととか、麻雀を始めたこととか、原神を始めたこととか、パッと思いつくのはこれくらいですが他にも色々なんやかんやしてたと思います。\n続きをみる",
+          "link": "https://note.com/pan_nyaa/n/n56ec4ecddb37",
+          "publishedOn": "2024-02-28T19:46:17.000Z",
+          "wordCount": 2390,
+          "title": "Twitter凍結されてから1年くらい経ちそう",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/16edca72ecea4dc6278bf87bd00297fb4fbd37ec.png"
+        },
+        {
           "id": "https://note.com/pan_nyaa/n/n6fe36d9eab2d",
           "author": null,
           "description": "好きなイヤホンをTWS化できる FiiO UTWS5 を所持しているのですが、右側だけ充電されなくなることがしょっちゅうあります。\n以下の手順で復活したのでメモしておきます。(偶然復活しただけ説)\n①全ての機器とのペアリングを解除する(おそらくここが一番重要)\n②機器側に登録してあるutws5を削除する、FiiO Control上のUTWS5も同様に削除。\n③LR両方をケースに入れる(この時右側だけ充電できてない)\n④ケースのボタンを15秒以上押してutws5 LRの初期化をする\n続きをみる",

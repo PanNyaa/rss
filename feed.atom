@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pannyaa.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-28T00:32:12.311Z</updated>
+    <updated>2024-02-29T00:33:09.178Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pannyaa.github.io/rss/index.html"/>
     <link rel="self" href="https://pannyaa.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Twitter凍結されてから1年くらい経ちそう]]></title>
+        <id>https://note.com/pan_nyaa/n/n56ec4ecddb37</id>
+        <link href="https://note.com/pan_nyaa/n/n56ec4ecddb37"/>
+        <updated>2024-02-28T19:46:17.000Z</updated>
+        <summary type="html"><![CDATA[2023年4月(だったかな)にTwitterアカウントが凍結されてからもう1年経ちそうになってます、時間が過ぎるのは早いですね。イーロン・マスクのせいです。
+あの頃から何か変わったことといえば、凍結を機にSNSアカウントとかをまとめたプロフィールページ( https://pannyaa.github.io/about/ )をGithub Pagesで作ったこととか、43インチの4Kディスプレイ(43Z670K)を買ったこととか、GPD Win4 2023を買ったこととか、麻雀を始めたこととか、原神を始めたこととか、パッと思いつくのはこれくらいですが他にも色々なんやかんやしてたと思います。
+続きをみる]]></summary>
+        <author>
+            <name>ぱんにゃあちゃん(p°ω°)p</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FiiO UTWS5 の右側だけ充電されないときのメモ]]></title>
         <id>https://note.com/pan_nyaa/n/n6fe36d9eab2d</id>
