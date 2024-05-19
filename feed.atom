@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pannyaa.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-18T00:35:45.426Z</updated>
+    <updated>2024-05-19T00:39:15.936Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pannyaa.github.io/rss/index.html"/>
     <link rel="self" href="https://pannyaa.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【Twitterを取り戻せ】Android版Firefoxでストアから削除されたold twitter layoutを野良アドオンとしてインストールして使用する方法]]></title>
+        <id>https://note.com/pan_nyaa/n/n6332b32e22d9</id>
+        <link href="https://note.com/pan_nyaa/n/n6332b32e22d9"/>
+        <updated>2024-05-18T05:38:13.000Z</updated>
+        <summary type="html"><![CDATA[イーロン・マスク抵抗軍の皆さん、こんにちは。ぱんにゃあちゃんです。　　  　　
+今までFirefoxでcontrol panel for twitter か old twitter layoutを使ってPWA化してTwitterしていたのですが、old twitter layoutがMozillaによってアドオンストアから消されてしまいました。　　  　　
+これによりold twitter layoutをAndroid版Firefoxで使用する場合は野良アドオンとしてインストールするしか方法がなくなってしまいました。　　  　　
+このままではイーロンに抵抗できないので、抵抗軍の皆様には対抗法を伝授します。　　  　　
+続きをみる]]></summary>
+        <author>
+            <name>ぱんにゃあちゃん(p°ω°)p</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[個人サイトに載せる連絡用メールアドレスの代わりにLINE公式アカウントを開設した話]]></title>
         <id>https://note.com/pan_nyaa/n/na2d7d73b9f4f</id>
