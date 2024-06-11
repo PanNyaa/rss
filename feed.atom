@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pannyaa.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-10T00:38:47.531Z</updated>
+    <updated>2024-06-11T00:37:20.033Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pannyaa.github.io/rss/index.html"/>
     <link rel="self" href="https://pannyaa.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[何も悪いことしてないのに、またTwitterアカウント凍結された……]]></title>
+        <id>https://note.com/pan_nyaa/n/na9344b355a41</id>
+        <link href="https://note.com/pan_nyaa/n/na9344b355a41"/>
+        <updated>2024-06-10T05:42:12.000Z</updated>
+        <summary type="html"><![CDATA[昨日の2024年6月9日、避難用として使っていたTwitterアカウントが凍結されてしまいました……。
+今回は、本当に何も思い当たる原因がありません。凍結リスクがありそうなoldtweetdeckは使ってないし、メールアドレスも違うものを使っています。
+old twitter layoutやcontrol panel for twitterは使用していましたが、ブラウザの拡張機能なのでoldtweetdeckのように有料機能を無料で使っているわけでもありません。
+アカウント名が似てるとかそういう理由なんですかね……。
+鍵垢のほうは凍結されていないですが、"アカウントを管理"で切り替えながらログインしていたので、いつバレるか不安になりながらツイートしてます。
+また凍結されるかもしれないけど、三代目アカウントを個人ホームページのCONTACTタブに載せたので、見かけたらフォローしてくれると嬉しいです……。
+続きをみる]]></summary>
+        <author>
+            <name>ぱんにゃあちゃん(p°ω°)p</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Twitterを取り戻せ】Android版Firefoxでストアから削除されたold twitter layoutを野良アドオンとしてインストールして使用する方法]]></title>
         <id>https://note.com/pan_nyaa/n/n6332b32e22d9</id>
