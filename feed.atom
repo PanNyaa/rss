@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pannyaa.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-11T00:37:20.033Z</updated>
+    <updated>2024-06-12T00:37:29.173Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pannyaa.github.io/rss/index.html"/>
     <link rel="self" href="https://pannyaa.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[限界しりとりMobileというゲームが脳トレ感覚で(ほんのちょっぴり)楽しい]]></title>
+        <id>https://note.com/pan_nyaa/n/n8aac3ea5df13</id>
+        <link href="https://note.com/pan_nyaa/n/n8aac3ea5df13"/>
+        <updated>2024-06-11T18:49:12.000Z</updated>
+        <summary type="html"><![CDATA[限界しりとりMobileとは、制限時間と文字数一致制限がついたしりとりでオンラインマッチングして対戦できるゲームです。
+GooglePlayの評価は☆2.9でした(低すぎます！)
+続きをみる]]></summary>
+        <author>
+            <name>ぱんにゃあちゃん(p°ω°)p</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024-06-11、本日確認した...]]></title>
+        <id>https://note.com/pan_nyaa/n/n231239b67425</id>
+        <link href="https://note.com/pan_nyaa/n/n231239b67425"/>
+        <updated>2024-06-11T14:24:49.000Z</updated>
+        <summary type="html"><![CDATA[2024-06-11、本日確認したところ、Old Twitter LayoutがFirefoxのアドオンページから消えてました(2回目)。
+Twitter本社から圧力がかかっている可能性もあり、このアドオンを使っているだけで凍結リスクが上がるかもしれません……。 続きをみる]]></summary>
+        <author>
+            <name>ぱんにゃあちゃん(p°ω°)p</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[モバイル版のMicrosoft Edgeでアドオンが使えるようになってたので快適なTLを構築してみる]]></title>
+        <id>https://note.com/pan_nyaa/n/n842b9310a6a9</id>
+        <link href="https://note.com/pan_nyaa/n/n842b9310a6a9"/>
+        <updated>2024-06-11T14:04:18.000Z</updated>
+        <summary type="html"><![CDATA[今までスマホ向けブラウザだとFirefox(Beta)かKiwi Browserくらいしか任意のアドオンを使う方法は無かったのですが、そこにMicrosoft Edgeも加わりました。(ようやくこういう流れが来てくれたか……)
+通常のEdgeではなく、Microsoft Edge Canaryという先行プレビュー版のようなバージョンを使用します。
+他にもDev版やBeta版がありますが、任意のアドオンが使えるのはCanary版だけでした。
+続きをみる]]></summary>
+        <author>
+            <name>ぱんにゃあちゃん(p°ω°)p</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[何も悪いことしてないのに、またTwitterアカウント凍結された……]]></title>
         <id>https://note.com/pan_nyaa/n/na9344b355a41</id>
