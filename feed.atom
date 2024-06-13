@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pannyaa.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-12T00:37:29.173Z</updated>
+    <updated>2024-06-13T00:37:11.917Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pannyaa.github.io/rss/index.html"/>
     <link rel="self" href="https://pannyaa.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OldTwitterLayoutの...]]></title>
+        <id>https://note.com/pan_nyaa/n/n0afddc94b1eb</id>
+        <link href="https://note.com/pan_nyaa/n/n0afddc94b1eb"/>
+        <updated>2024-06-12T08:19:26.000Z</updated>
+        <summary type="html"><![CDATA[OldTwitterLayoutのissueを見たら、自分の他にも直近で凍結被害に遭っている人がチラホラいました
+https://github.com/dimdenGD/OldTwitter/issues/828
+因果関係は不明ですが、Control Panel for Twitterと違ってAPIを直叩きしてるのが原因なんですかね 続きをみる]]></summary>
+        <author>
+            <name>ぱんにゃあちゃん(p°ω°)p</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[限界しりとりMobileというゲームが脳トレ感覚で(ほんのちょっぴり)楽しい]]></title>
         <id>https://note.com/pan_nyaa/n/n8aac3ea5df13</id>
