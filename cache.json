@@ -6,6 +6,16 @@
       "siteUrl": "https://note.com/pan_nyaa",
       "articles": [
         {
+          "id": "https://note.com/pan_nyaa/n/na5ab6d39c9fb",
+          "author": null,
+          "description": "Twitter凍結解除狙いでTwitter社に内容証明郵便を送るっていう手法があるらしいけど、最近だと受け取り拒否されることとかもあるらしくてマジでヤバいな〜ってなってる 続きをみる",
+          "link": "https://note.com/pan_nyaa/n/na5ab6d39c9fb",
+          "publishedOn": "2024-06-15T05:01:52.000Z",
+          "wordCount": 1190,
+          "title": "Twitter凍結解除狙いでTwi...",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/103870566/profile_75de3f7760a566c4fa599404f8c86aaa.png?fit=bounds&format=jpeg&quality=85&width=330"
+        },
+        {
           "id": "https://note.com/pan_nyaa/n/n0afddc94b1eb",
           "author": null,
           "description": "OldTwitterLayoutのissueを見たら、自分の他にも直近で凍結被害に遭っている人がチラホラいました\nhttps://github.com/dimdenGD/OldTwitter/issues/828\n因果関係は不明ですが、Control Panel for Twitterと違ってAPIを直叩きしてるのが原因なんですかね 続きをみる",
