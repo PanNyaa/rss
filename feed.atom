@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pannyaa.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-27T00:37:33.155Z</updated>
+    <updated>2024-06-28T00:37:42.116Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pannyaa.github.io/rss/index.html"/>
     <link rel="self" href="https://pannyaa.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PayPayに他社クレカ(ANA ...]]></title>
+        <id>https://note.com/pan_nyaa/n/n4f6e5e0a0407</id>
+        <link href="https://note.com/pan_nyaa/n/n4f6e5e0a0407"/>
+        <updated>2024-06-27T18:23:19.000Z</updated>
+        <summary type="html"><![CDATA[PayPayに他社クレカ(ANA PAY)を登録してSteamでPayPay払いをしようとしたんだけど、どうやらバーコードスキャン支払いだと他社クレカが使えないらしい……。他社クレカも2025/1に廃止されちゃうし、PayPay使いづらくなるなぁ……。 続きをみる]]></summary>
+        <author>
+            <name>ぱんにゃあちゃん(p°ω°)p</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Twitter凍結解除狙いでTwi...]]></title>
         <id>https://note.com/pan_nyaa/n/na5ab6d39c9fb</id>
