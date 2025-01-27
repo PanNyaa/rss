@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pannyaa.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-26T00:45:48.014Z</updated>
+    <updated>2025-01-27T00:45:46.032Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pannyaa.github.io/rss/index.html"/>
     <link rel="self" href="https://pannyaa.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[指定範囲のコメントアウトを1文字で切り替えるやつ]]></title>
+        <id>https://note.com/pan_nyaa/n/n544a23ba10ea</id>
+        <link href="https://note.com/pan_nyaa/n/n544a23ba10ea"/>
+        <updated>2025-01-26T13:08:05.000Z</updated>
+        <summary type="html"><![CDATA[void Main(){        /*        Console.WriteLine("Hello");        //*/        Console.WriteLine("World");            }    //実行結果：World
+void Main(){        //*        Console.WriteLine("Hello");        //*/        Console.WriteLine("World");            }    //実行結果：HelloWorld
+続きをみる]]></summary>
+        <author>
+            <name>ぱんにゃあちゃん(p°ω°)p</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PayPayに他社クレカ(ANA ...]]></title>
         <id>https://note.com/pan_nyaa/n/n4f6e5e0a0407</id>
