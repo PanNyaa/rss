@@ -6,6 +6,16 @@
       "siteUrl": "https://note.com/pan_nyaa",
       "articles": [
         {
+          "id": "https://note.com/pan_nyaa/n/n8d09206f53de",
+          "author": null,
+          "description": "特にTwitterがヤバい。メインSNSはもうBlueskyに移行したので原神とかのキャンペーンツイートをRTするときくらいしかTwitter見てないんですが、いつ見ても炎上ネタがTLにあるし、思想対立者を非難するようなツイートが目に入るし、多様性廃止の流れに賛成してる人達(Xでしか見かけないよね)とか居るし、もうあそこはだめだなーって気持ち。\n日本人含むアジア人は多様性推進で守られる側の立場なのに謎すぎる、やっぱりX民は世論誘導されてるんじゃないですかね。\nBlueskyに鍵垢が実装されたらツイッター完全にオワコンにできるのになぁ。\n続きをみる",
+          "link": "https://note.com/pan_nyaa/n/n8d09206f53de",
+          "publishedOn": "2025-03-28T20:56:13.000Z",
+          "wordCount": 2180,
+          "title": "最近のインターネットしんどすぎる",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/0a62dc436b38d55507f1c36f9fa6b01f2e7f5f89.png"
+        },
+        {
           "id": "https://note.com/pan_nyaa/n/n544a23ba10ea",
           "author": null,
           "description": "void Main(){        /*        Console.WriteLine(\"Hello\");        //*/        Console.WriteLine(\"World\");            }    //実行結果：World\nvoid Main(){        //*        Console.WriteLine(\"Hello\");        //*/        Console.WriteLine(\"World\");            }    //実行結果：HelloWorld\n続きをみる",
