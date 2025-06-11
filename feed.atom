@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pannyaa.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-10T00:55:16.959Z</updated>
+    <updated>2025-06-11T00:55:20.570Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pannyaa.github.io/rss/index.html"/>
     <link rel="self" href="https://pannyaa.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ピッチ補正プラグインRePitch...]]></title>
+        <id>https://note.com/pan_nyaa/n/nd14f21fd32d3</id>
+        <link href="https://note.com/pan_nyaa/n/nd14f21fd32d3"/>
+        <updated>2025-06-10T13:03:03.000Z</updated>
+        <summary type="html"><![CDATA[ピッチ補正プラグインRePitch Elementsが無料で貰えるキャンペーンのやつ、13日までだから貰っとくかなと思って手続きしてたら、クレカ登録必須なのはまだいいとしてANAPAYとかのプリペイドが弾かれる仕組みになっててかなりめんどくさい 続きをみる]]></summary>
+        <author>
+            <name>ぱんにゃあちゃん(p°ω°)p</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blueskyに移行してストレスに...]]></title>
         <id>https://note.com/pan_nyaa/n/n4f88f9579299</id>
