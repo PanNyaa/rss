@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pannyaa.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-16T00:48:34.375Z</updated>
+    <updated>2025-09-17T00:48:48.418Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pannyaa.github.io/rss/index.html"/>
     <link rel="self" href="https://pannyaa.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Unityで初歩的な失敗を発見するのが遅れたのでメモ]]></title>
+        <id>https://note.com/pan_nyaa/n/ncad7663cdc9f</id>
+        <link href="https://note.com/pan_nyaa/n/ncad7663cdc9f"/>
+        <updated>2025-09-16T02:12:26.000Z</updated>
+        <summary type="html"><![CDATA[結論から言うと、『GetComponent』と間違えて『AddComponent』をしてしまっていました。
+オブジェクトAにアタッチしているスクリプトAから、オブジェクトBにアタッチしているスクリプトBの参照を取得するのはUnityの基本中の基本ですが、「スクリプトBで値Nを変更しているはずなのに、スクリプトAからNを取得すると変化前の値を取得してしまうことがある」というバグに遭遇し、ログを挟んで確認してもどこが原因か分からず……。
+インスペクタをよく見たら、オブジェクトBにあるスクリプトBコンポーネントが増殖してました！！
+AddComponentで追加したコンポーネントの値Nに対してインクリメントを行っていたので、スクリプトB側の値Nを初期化してもスクリプトAから見て初期化できてないわけだ……。
+外部参照取得部分を『GetComponent』に直して問題解決です！
+続きをみる]]></summary>
+        <author>
+            <name>ぱんにゃあちゃん(p°ω°)p</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ピッチ補正プラグインRePitch...]]></title>
         <id>https://note.com/pan_nyaa/n/nd14f21fd32d3</id>

@@ -129,6 +129,59 @@ window.addEventListener('DOMContentLoaded', function() {
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-09-16 datetime="2025-09-16T02:12:26.000Z">2025-09-16</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-09-16 datetime="2025-09-16T02:12:26.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >ぱんにゃあちゃん(p°ω°)p</button>
+                  <a class="source-heading__link" href="https://note.com/pan_nyaa">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://note.com/pan_nyaa/n/ncad7663cdc9f"
+                        open
+                      >
+                        <summary class="article-expander__title">Unityで初歩的な失敗を発見するのが遅れたのでメモ</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://note.com/pan_nyaa/n/ncad7663cdc9f">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://assets.st-note.com/production/uploads/images/215721712/rectangle_large_type_2_9fa3e6ca07d681bb8da6404fe267b4aa.png?width&#x3D;800" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>結論から言うと、『GetComponent』と間違えて『AddComponent』をしてしまっていました。
+オブジェクトAにアタッチしているスクリプトAから、オブジェクトBにアタッチしているスクリプトBの参照を取得するのはUnityの基本中の基本ですが、「スクリプトBで値Nを変更しているはずなのに、スクリプトAからNを取得すると変化前の値を取得してしまうことがある」というバグに遭遇し、ログを挟んで確認してもどこが原因か分からず……。
+インスペクタをよく見たら、オブジェクトBにあるスクリプトBコンポーネントが増殖してました！！
+AddComponentで追加したコンポーネントの値Nに対してインクリメントを行っていたので、スクリプトB側の値Nを初期化してもスクリプトAから見て初期化できてないわけだ……。
+外部参照取得部分を『GetComponent』に直して問題解決です！
+続きをみる</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;8
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-06-10 datetime="2025-06-10T13:03:03.000Z">2025-06-10</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-06-10 datetime="2025-06-10T13:03:03.000Z"></time>
           </button>
@@ -1275,8 +1328,8 @@ https://lin.ee/ec8jaOF
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/PanNyaa/rss/actions/runs/17750862291">
-        <time id="build-timestamp" datetime="2025-09-16T00:48:34.356Z">2025-09-16T00:48:34.356Z</time>
+      <a class="footer-link" href="https://github.com/PanNyaa/rss/actions/runs/17783122820">
+        <time id="build-timestamp" datetime="2025-09-17T00:48:48.400Z">2025-09-17T00:48:48.400Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

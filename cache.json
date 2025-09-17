@@ -6,6 +6,16 @@
       "siteUrl": "https://note.com/pan_nyaa",
       "articles": [
         {
+          "id": "https://note.com/pan_nyaa/n/ncad7663cdc9f",
+          "author": null,
+          "description": "結論から言うと、『GetComponent』と間違えて『AddComponent』をしてしまっていました。\nオブジェクトAにアタッチしているスクリプトAから、オブジェクトBにアタッチしているスクリプトBの参照を取得するのはUnityの基本中の基本ですが、「スクリプトBで値Nを変更しているはずなのに、スクリプトAからNを取得すると変化前の値を取得してしまうことがある」というバグに遭遇し、ログを挟んで確認してもどこが原因か分からず……。\nインスペクタをよく見たら、オブジェクトBにあるスクリプトBコンポーネントが増殖してました！！\nAddComponentで追加したコンポーネントの値Nに対してインクリメントを行っていたので、スクリプトB側の値Nを初期化してもスクリプトAから見て初期化できてないわけだ……。\n外部参照取得部分を『GetComponent』に直して問題解決です！\n続きをみる",
+          "link": "https://note.com/pan_nyaa/n/ncad7663cdc9f",
+          "publishedOn": "2025-09-16T02:12:26.000Z",
+          "wordCount": 2269,
+          "title": "Unityで初歩的な失敗を発見するのが遅れたのでメモ",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/215721712/rectangle_large_type_2_9fa3e6ca07d681bb8da6404fe267b4aa.png?width=800"
+        },
+        {
           "id": "https://note.com/pan_nyaa/n/nd14f21fd32d3",
           "author": null,
           "description": "ピッチ補正プラグインRePitch Elementsが無料で貰えるキャンペーンのやつ、13日までだから貰っとくかなと思って手続きしてたら、クレカ登録必須なのはまだいいとしてANAPAYとかのプリペイドが弾かれる仕組みになっててかなりめんどくさい 続きをみる",
