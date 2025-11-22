@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pannyaa.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-21T00:53:41.977Z</updated>
+    <updated>2025-11-22T00:51:45.498Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pannyaa.github.io/rss/index.html"/>
     <link rel="self" href="https://pannyaa.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[インフルっぽい！！]]></title>
+        <id>https://note.com/pan_nyaa/n/n43899e846c95</id>
+        <link href="https://note.com/pan_nyaa/n/n43899e846c95"/>
+        <updated>2025-11-21T19:41:50.000Z</updated>
+        <summary type="html"><![CDATA[19日の夜7時頃、ヒリヒリとした喉の痛みを感じる。
+部屋を加湿したり、トローチを舐めたり、マウスウォッシュうがい(良い子はやっちゃいけない)をしたり、プラズマクラスター空気清浄機をフル回転させてウイルス対策したりしてた。
+20日の昼12時頃に起床。喉に痰が絡んでてゼーゼーする……。少し関節痛の気配……。
+同日の21時頃に発熱が出てきたので、カロナール錠を服用。関節痛が本格的になってくる(これインフルじゃんね)
+21日の午後4時頃、熱を測ったら38.4度だった。
+今は22日の午前4時過ぎですが、カロナールの効果時間(6時間〜8時間くらい)が切れないように服用しないとしんどい体調になってます。
+土曜日でもインフルの診察をしている内科が徒歩20分の距離にあるので、今日は絶対に受診しようと思ってます。
+発熱後48時間以内ならタミフルが効くらしい、まだ間に合う！！
+
+
+続きをみる]]></summary>
+        <author>
+            <name>ぱんにゃあちゃん(p°ω°)p</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unityで初歩的な失敗を発見するのが遅れたのでメモ]]></title>
         <id>https://note.com/pan_nyaa/n/ncad7663cdc9f</id>
