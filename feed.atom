@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pannyaa.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-23T01:01:14.474Z</updated>
+    <updated>2025-11-24T00:57:50.591Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pannyaa.github.io/rss/index.html"/>
     <link rel="self" href="https://pannyaa.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[インフルA型でした]]></title>
+        <id>https://note.com/pan_nyaa/n/n514bba0960a3</id>
+        <link href="https://note.com/pan_nyaa/n/n514bba0960a3"/>
+        <updated>2025-11-23T07:13:06.000Z</updated>
+        <summary type="html"><![CDATA[昨日はちゃんと病院に行けました！
+やはり案の定インフルエンザ(A型)でした……。
+発症48時間以内だったのでタミフルを処方してもらって服用しています。(ゾフルーザと選べたけど薬価がちょっと安いタミフルにした)
+タミフル服用の決め手となるインフルエンザ発症48時間以内の定義ですが、『38度以上の高熱』かつ『インフルエンザ様症状』が現れてから48時間以内らしいです。20日の夜7時に発熱し始めたので、22日の夜7時までが48時間以内ですね。
+22日の午前11時にタミフルを飲めたので間に合いました。
+タミフルとゾフルーザって何が違うのか気になって調べてみたんですが、タミフルは5日間朝夕食後に飲むもので、ゾフルーザは最初の1回の服用で前述のタミフルと同じ効果が出るそうです。
+これはゾフルーザの半減期が99時間(!?)と非常に長いのが特徴で、長く身体に残り続けるからだそうです。その分、副作用などにより一層注意する必要性が出てきます。
+小児などにも長年の使用実績があるタミフルと、途中で飲み忘れる心配が無いゾフルーザで選択って感じっぽいですね。
+(抗ウイルス剤や抗生物質などの飲み忘れは耐性菌等を生む危険性があるので本当に良くないです)
+ちなみに、医薬品の中でも半減期がここまで長いものは珍しいらしいです。
+今は、一昨日や昨日と比べたらかなり体調がマシになりました。全身の関節痛が本当にしんどくて寝られなかったからね……。まだ頭痛やらなんやらはあるのと、外出も金曜日までお預けです。ゆっくり療養します。
+続きをみる]]></summary>
+        <author>
+            <name>ぱんにゃあちゃん(p°ω°)p</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[インフルっぽい！！]]></title>
         <id>https://note.com/pan_nyaa/n/n43899e846c95</id>
