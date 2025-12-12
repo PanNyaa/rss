@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pannyaa.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-11T00:57:50.294Z</updated>
+    <updated>2025-12-12T00:57:14.615Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pannyaa.github.io/rss/index.html"/>
     <link rel="self" href="https://pannyaa.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Twitter凍結されてから2年弱くらい経った、みたいな日記(こういうの定期的に書くのが良いらしい)]]></title>
+        <id>https://note.com/pan_nyaa/n/n64b0a16f7c8b</id>
+        <link href="https://note.com/pan_nyaa/n/n64b0a16f7c8b"/>
+        <updated>2025-12-11T01:55:22.000Z</updated>
+        <summary type="html"><![CDATA[最近のTwitter検索、最新順にしても時系列順にならなかったり間引かれたりしてて、まともに使えなくなってますね……。
+(Y◯hooリアルタイム検索で代用しています)
+フォロー中TLすら間引きが発生するらしいので、フォロイーの投稿を見たりコミュニケーションを取るためのSNSとしてはもう使えない、情報収集用SNSとしての価値も検索機能劣化で怪しくなってきてて、公式アカウントがしつこく残ってるだけのSNSになってる気がします。(公式系の抽選ツイートはRTしたりしてますが、たぶんシャドバンされてる人は当選者をランダムに決める為のツールにも引っかからない可能性あるので終わりです)
+イーロンの私情でアカウント停止が決まるようなSNS、みんな使うのやめませんか？せめて、イーロンが船を降りるまで……。
+オススメはBlueskyですが、Twitterと比べてイラストRTする人はあんまり居ない印象です。イラスト見る用のSNSとしてMisskey ioもやってます。
+Misskeyを見ると、Twitterで凍結された絵師がめちゃくちゃ多い事実にびっくりしますよ。
+
+
+続きをみる]]></summary>
+        <author>
+            <name>ぱんにゃあちゃん(p°ω°)p</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[インフル治ってきた]]></title>
         <id>https://note.com/pan_nyaa/n/n37b5adfe085f</id>
