@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pannyaa.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-07T01:06:42.015Z</updated>
+    <updated>2026-03-08T01:12:21.998Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pannyaa.github.io/rss/index.html"/>
     <link rel="self" href="https://pannyaa.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Youtube配信でOBS設定に問題が無いのに60fpsにならず30fpsになってしまっていた原因とか]]></title>
+        <id>https://note.com/pan_nyaa/n/nac8de9d65908</id>
+        <link href="https://note.com/pan_nyaa/n/nac8de9d65908"/>
+        <updated>2026-03-07T01:57:23.000Z</updated>
+        <summary type="html"><![CDATA[ゲーム配信再開したいな～と思って限定公開で配信してリハビリ中のぱんにゃあちゃんです。
+色々設定を煮詰めて720p H.265(ハードウェアエンコード) 8000kbps 60fpsで配信してたのですが、アーカイブを確認すると30fpsの動画しか作成されてなくて「あれ・・・？」となってました。
+OBSで録画すると普通に60fpsの動画が作成されるので、設定に問題は無いはず・・・？
+そう思い色々試した結果、原因は『音声ビットレートを256kbpsにしていた』ことでした。
+どういうことかというと、Youtubeは160kbpsより高い音声ビットレートでの配信に対応していないらしく、OBS側の設定に『配信サービスの推奨設定を無視する』という項目がデフォルトでオフになっています。オンにすると色々と問題が起こりそうなのでオフのままにしていたのですが、例えば音声ビットレートを256にしているとOBS側で "この配信設定はYoutubeに非対応だから対応形式に直してあげよう" みたいな処理が発生して、そこで30fpsにされていたんだと思います。
+OBS側で音声ビットレート設定を160に設定したら、配信やアーカイブがきちんと60fpsになっていました。
+これでヌルヌル配信できそう！
+(結論をあえて先に書かないことで趣が生まれる)
+……と思ってたら、配信中は720p60fpsで流せててアーカイブも60fpsだったのに、配信終了後に時間が経つとアーカイブから60fpsが消える現象を確認しました。
+Youtube側のアーカイブ動画処理で1080p以外だとSD向けエンコード(30fps)されてしまうっぽいです。
+かんたんな解決策はそもそも1080p60fpsで配信することですが、ゲームが重くなりそうで悩む……。
+スケーリング解像度だけを1080pにした場合でもいけそうですが、ゲームの動作を比較しながら色々試したほうが良さそうです。
+
+
+続きをみる]]></summary>
+        <author>
+            <name>ぱんにゃあちゃん(p°ω°)p</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Twitter凍結されてから2年弱くらい経った、みたいな日記(こういうの定期的に書くのが良いらしい)]]></title>
         <id>https://note.com/pan_nyaa/n/n64b0a16f7c8b</id>
