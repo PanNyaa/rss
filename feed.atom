@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pannyaa.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-17T01:12:01.825Z</updated>
+    <updated>2026-03-18T01:16:12.972Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pannyaa.github.io/rss/index.html"/>
     <link rel="self" href="https://pannyaa.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ライバルズ新規のドラゴン・導きの呼笛が青眼と相性悪い件]]></title>
+        <id>https://note.com/pan_nyaa/n/nb3acf687946c</id>
+        <link href="https://note.com/pan_nyaa/n/nb3acf687946c"/>
+        <updated>2026-03-17T20:32:44.000Z</updated>
+        <summary type="html"><![CDATA[まず効果を見てください。
+
+通常魔法
+このカード名の(1)(2)の効果はそれぞれ１ターンに１度しか使用できない。 (1)：フィールドに魔法使い族モンスターが存在する場合に発動できる。 デッキからレベル５以上のドラゴン族モンスター１体を特殊召喚する。 相手フィールドにモンスターが２体以上存在する場合、 さらに特殊召喚したモンスターの同名モンスター１体をデッキから特殊召喚できる。 このターン、自分はドラゴン族・魔法使い族モンスターしか特殊召喚できない。 (2)：自分メインフェイズ２に、このターンに墓地へ送られたこのカードを除外して発動できる。 自分は１枚ドローする。
+
+https://yugioh-wiki.net/index.php?%A1%D4%A5%C9%A5%E9%A5%B4%A5%F3%A1%A6%C6%B3%A4%AD%A4%CE%B8%C6%C5%AB%A1%D5
+続きをみる]]></summary>
+        <author>
+            <name>ぱんにゃあちゃん(p°ω°)p</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Youtube配信でOBS設定に問題が無いのに60fpsにならず30fpsになってしまっていた原因とか]]></title>
         <id>https://note.com/pan_nyaa/n/nac8de9d65908</id>
