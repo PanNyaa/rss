@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pannyaa.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-20T01:11:56.158Z</updated>
+    <updated>2026-03-21T01:07:18.463Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pannyaa.github.io/rss/index.html"/>
     <link rel="self" href="https://pannyaa.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ライバルズ一つも買えなかった……]]></title>
+        <id>https://note.com/pan_nyaa/n/na0ad0a527088</id>
+        <link href="https://note.com/pan_nyaa/n/na0ad0a527088"/>
+        <updated>2026-03-20T01:53:37.000Z</updated>
+        <summary type="html"><![CDATA[転売ヤー全員消えてほしい
+続きをみる]]></summary>
+        <author>
+            <name>ぱんにゃあちゃん(p°ω°)p</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ライバルズ新規のドラゴン・導きの呼笛が青眼と相性悪い件]]></title>
         <id>https://note.com/pan_nyaa/n/nb3acf687946c</id>
